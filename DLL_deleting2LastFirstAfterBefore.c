@@ -135,12 +135,9 @@ int main(){
     node *head;
     head = createDLL(head); //0...7 arasi elemanlari barindiran bir Doubly LL olusturuldu
     head = deleteFirst2DLL(head); //7 elemanli node silinecek
-    head = deleteLast2DLL(head)I //0 elemanli node silinecek
-    head = deleteAfter2DLL(head, 4);//5 elemani olan node silinecek
-    head = deleteBefore2DLL(head, 3);//2 elemani olan node silinecek
-
-
-
+    head = deleteLast2DLL(head); //0 elemanli node silinecek
+    head = deleteAfter2DLL(head, 4);//3 elemani olan node silinecek
+    head = deleteBefore2DLL(head, 2);//4 elemani olan node silinecek
 
     return 0;
 }
