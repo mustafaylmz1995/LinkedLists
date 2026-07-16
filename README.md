@@ -1,15 +1,13 @@
 # LinkedLists
 
-**LinkedLists — C Programming Exercises**
+**Linked List Implementations in C — Singly, Doubly, and Circular**
 
 ![C](https://img.shields.io/badge/Language-C-blue)
-![DSA](https://img.shields.io/badge/DSA-Data_Structures-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
-Practice implementations for linkedlists.
+Complete linked list library in C with insert, delete, search, reverse, and sort operations.
 
-## 📄 License
-
+## License
 MIT License.
